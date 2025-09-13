@@ -62,6 +62,4 @@ A Python + SQL project that automates the transfer of Google Form responses from
 - **Database:** MySQL (via XAMPP)  
 - **Visualization:** Microsoft Power BI  
 
----
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+
